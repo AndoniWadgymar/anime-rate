@@ -1,0 +1,12 @@
+{
+  "name": "anime-rate",
+  "version": "1.0.0",
+  "description": "Web App to review and save animes you have watched",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
